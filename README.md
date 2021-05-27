@@ -1,6 +1,6 @@
-- 🙌🏼 Hi, I’m @dhlee23
-- 🌚 
+Hi, I’m D@e Lee 🌚
 - 🌱 
+- 👨🏻‍💻📚
 
 <!---
 dhlee23/dhlee23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
